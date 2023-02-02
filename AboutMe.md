@@ -53,5 +53,5 @@ Sass
  
   @return $opposite-directions;
 }
-
+```
 [Link](https://css-tricks.com/snippets/sass/opposite-direction-function/)
