@@ -15,3 +15,7 @@ In this table i am  recommend someone visit.
 | kolkata        |    to see buildings     |     5                 |
 |hyedarabad      |    to see charminar     |     7                 |
 
+# Pithy Quotes
+> So we beat on, boats against the current, borne back ceaselessly into the past. -_Mohan_
+>
+> The way to get started is to quit talking and begin doing. -_Rahul_
